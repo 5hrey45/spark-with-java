@@ -10,3 +10,5 @@
 - ReduceByKey
 - Fluent API
 - OrderByKey
+- FlatMap
+- Filter
