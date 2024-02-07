@@ -13,4 +13,6 @@
 - FlatMap
 - Filter
 - Read from disk
+- sortByKey
+- swapping the elements in the tuples
 - Keyword Ranking (most frequent keywords in a subtitle file which is not part of popular english words)
