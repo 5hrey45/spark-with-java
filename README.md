@@ -13,3 +13,4 @@
 - FlatMap
 - Filter
 - Read from disk
+- Keyword Ranking (most frequent keywords in a subtitle file which is not part of popular english words)
